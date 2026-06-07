@@ -161,7 +161,7 @@ Philosophy  : "Security is not a product, but a process. Defend forward, assume 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debajyoti0-0&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF"/>
 </a>
 
-<a href="https://github.com/Debajyoti0-0">
+<!--<a href="https://github.com/Debajyoti0-0">-->
   <img src="https://streak-stats.demolab.com/?user=Debajyoti0-0&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak"/>
 </a>
 
