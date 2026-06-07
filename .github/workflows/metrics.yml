@@ -1,7 +1,7 @@
 name: Metrics
 on:
   schedule:
-    - cron: "0 */6 * * *"   # Refresh every 6 hours
+    - cron: "* * * * *"
   workflow_dispatch:
   push:
     branches: ["main"]
