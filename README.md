@@ -23,7 +23,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://in.linkedin.com/in/debajyoti-haldar)
 [![Twitter](https://img.shields.io/badge/Twitter-@Debajyoti077-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117)](https://twitter.com/Debajyoti077)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-TITAN_%7C_Top_1%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0D1117)](https://tryhackme.com/p/leo5o5)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Pro_Hacker-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0D1117)](https://app.hackthebox.com/public/users/718010)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Pro_Hacker-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=9FEF00)](https://app.hackthebox.com/public/users/718010)
 [![Blog](https://img.shields.io/badge/Blog-Daily_Cyber_Info-FF6B35?style=for-the-badge&logo=blogger&logoColor=white&labelColor=0D1117)](https://dailycyberinfo1.blogspot.com)
 
 <br/>
@@ -48,6 +48,7 @@ Philosophy  : "Security is not a product, but a process. Defend forward, assume 
               threat-informed engineering."
 ```
 
+<details>
 <summary><b>🔐 Specializations (Click to Expand)</b></summary>
 
 ```
@@ -57,6 +58,7 @@ Philosophy  : "Security is not a product, but a process. Defend forward, assume 
 ✅ Incident Response & Forensics           ✅ Compliance (ISO 27001 / NIST / PCI-DSS)
 ```
 
+</details>
 
 ---
 
@@ -121,22 +123,6 @@ Philosophy  : "Security is not a product, but a process. Defend forward, assume 
 
 > Custom-built offensive & defensive security tools — open source, battle-tested, community-adopted.
 
-<div align="center">
-
-| 🔫 Tool | ⭐ Stars | 🍴 Forks | 📌 Description | 🧰 Stack |
-|:---|:---:|:---:|:---|:---|
-| [**ToriFY**](https://github.com/Debajyoti0-0/ToriFY) | `106 ⭐` | `11` | Automates TOR routing, IP rotation & MAC spoofing for adversary simulation & privacy-focused red team ops | `Python` `Bash` `anonsurf` `macchanger` |
-| [**AirHunt**](https://github.com/Debajyoti0-0/AirHunt) | `71 ⭐` | `12` | Full wireless security toolkit — monitor mode, WPA handshake capture, deauth attacks & WPS exploitation | `Python` `Aircrack-ng` `Reaver` `Bully` |
-| [**Brahmastra**](https://github.com/Debajyoti0-0/Brahmastra) | `17 ⭐` | `8` | Comprehensive offensive security suite: OSINT, port scanning, web crawling, CMS detection, SQLi/XSS scanner & SSL analysis | `Python` `Nmap` `Nikto` `WPScan` `ffuf` |
-| [**CampHish**](https://github.com/Debajyoti0-0/CampHish) | `8 ⭐` | `6` | Advanced phishing framework for red team social engineering campaigns | `Python` `Flask` |
-| [**PyLogger**](https://github.com/Debajyoti0-0/PyLogger) | `4 ⭐` | `2` | Stealthy keylogger with email exfiltration — used for authorized security assessments | `Python` |
-| [**HiddenLinks Explorer**](https://github.com/Debajyoti0-0/HiddenLinks-Explorer) | `3 ⭐` | — | OSINT tool for discovering hidden links, endpoints, and leaked assets on web targets | `Python` |
-| [**No4bidden**](https://github.com/Debajyoti0-0/No4bidden) | `2 ⭐` | `2` | HTTP 40X bypass scanner — identifies misconfigurations enabling unauthorized access past 403/401 controls | `Python` `Requests` |
-| [**TriNetra**](https://github.com/Debajyoti0-0/TriNetra) | `2 ⭐` | `1` | Fast multi-threaded web recon crawler — uncovers hidden endpoints, API keys & JWTs with TOR support | `Python` `httpx` `Rich CLI` |
-| [**DomainShield**](https://github.com/Debajyoti0-0/DomainShield) | — | `1` | Automated domain security assessment: DNS analysis, SPF/DKIM/DMARC validation, HTML report generation | `Shell` `OpenSSL` `dig` |
-
-</div>
-
 ---
 
 ## 🤖 AI Security War Room
@@ -168,7 +154,6 @@ Philosophy  : "Security is not a product, but a process. Defend forward, assume 
 
 </div>
 
-<!-- FALLBACK: GitHub Stats Cards (shown until metrics SVGs are generated) -->
 <div align="center">
 
 <a href="https://github.com/Debajyoti0-0">
@@ -177,7 +162,7 @@ Philosophy  : "Security is not a product, but a process. Defend forward, assume 
 </a>
 
 <a href="https://github.com/Debajyoti0-0">
-  <img src="https://streak-stats.demolab.com?user=Debajyoti0-0&theme=matrix&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Debajyoti0-0&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak"/>
 </a>
 
 </div>
