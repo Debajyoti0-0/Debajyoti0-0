@@ -143,23 +143,12 @@ Philosophy  : "Security is not a product, but a process. Defend forward, assume 
 <!-- METRICS: Base Stats + Languages + Activity -->
 <img src="./metrics.base.svg" alt="GitHub Metrics" width="100%" />
 
-<!-- METRICS: Achievements -->
-<img src="./metrics.achievements.svg" alt="GitHub Achievements" width="49%" />
-
-<!-- METRICS: Coding Habits -->
-<img src="./metrics.habits.svg" alt="Coding Habits" width="49%" />
-
 <!-- METRICS: Isometric Commit Calendar -->
 <img src="./metrics.isocalendar.svg" alt="Isometric Calendar" width="100%" />
 
 </div>
 
 <div align="center">
-
-<!--<a href="https://github.com/Debajyoti0-0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Debajyoti0-0&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debajyoti0-0&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF"/>
-</a>-->
 
 <a href="https://github.com/Debajyoti0-0">
   <img src="https://streak-stats.demolab.com/?user=Debajyoti0-0&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak"/>
