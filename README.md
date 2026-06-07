@@ -22,7 +22,8 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-debajyoti--haldar.netlify.app-00FF41?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0D1117)](https://debajyoti-haldar.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://in.linkedin.com/in/debajyoti-haldar)
 [![Twitter](https://img.shields.io/badge/Twitter-@Debajyoti077-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117)](https://twitter.com/Debajyoti077)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-GOD_Rank_%7C_Top_1%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0D1117)](https://tryhackme.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-TITAN_%7C_Top_1%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0D1117)](https://tryhackme.com/p/leo5o5)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Pro_Hacker-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0D1117)](https://app.hackthebox.com/public/users/718010)
 [![Blog](https://img.shields.io/badge/Blog-Daily_Cyber_Info-FF6B35?style=for-the-badge&logo=blogger&logoColor=white&labelColor=0D1117)](https://dailycyberinfo1.blogspot.com)
 
 <br/>
@@ -39,9 +40,6 @@
 ```yaml
 Name        : Debajyoti Haldar
 Role        : Senior Cybersecurity Engineer
-Clearance   : LEVEL 7 — ACTIVE
-Location    : West Bengal, India
-Status      : ██████████ OPERATIONAL
 Mission     : Embed security-by-design into enterprise SaaS, FinTech, cloud-native,
               and regulated ecosystems while continuously strengthening detection
               capabilities, incident response readiness, and proactive cyber defense.
