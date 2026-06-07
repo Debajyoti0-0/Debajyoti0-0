@@ -136,8 +136,6 @@ Philosophy  : "Security is not a product, but a process. Defend forward, assume 
 
 ## 📊 GitHub Metrics
 
-> Auto-generated via [lowlighter/metrics](https://github.com/lowlighter/metrics) — refreshed every 6 hours via GitHub Actions.
-
 <div align="center">
 
 <!-- METRICS: Base Stats + Languages + Activity -->
