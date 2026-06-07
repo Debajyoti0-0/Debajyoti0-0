@@ -68,7 +68,7 @@ Philosophy  : "Security is not a product, but a process. Defend forward, assume 
 
 | 🎯 Experience | 🛡️ Assets Secured | 🔴 THM Rank | 🟩 HTB Rank | 🚨 Zero-Days | 🤖 AI Attack Surface |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **5+ Years** | **100+ Enterprise** | **GOD — Top 1%** | **Pro Hacker** | **Critical Finds** | **55% Reduction** |
+| **5+ Years** | **100+ Enterprise** | **TITAN — Top 1%** | **Pro Hacker** | **Critical Finds** | **55% Reduction** |
 | Secure SDLC | Cloud + On-Prem | TryHackMe | HackTheBox | Data Breach Prevented | LLM Red Teaming |
 
 </div>
