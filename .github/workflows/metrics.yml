@@ -1,15 +1,17 @@
 name: Metrics
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */6 * * *"   # Every 6 hours
   workflow_dispatch:
   push:
     branches: ["main"]
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
       # ── Base Stats + Language Activity ──────────────────────────────────────
       - name: Base Metrics
@@ -23,6 +25,7 @@ jobs:
           plugin_languages_details: lines, bytes-size, percentage
           plugin_lines: yes
           config_timezone: Asia/Kolkata
+
       # ── Isometric Calendar ───────────────────────────────────────────────────
       - name: Isometric Calendar
         uses: lowlighter/metrics@latest
