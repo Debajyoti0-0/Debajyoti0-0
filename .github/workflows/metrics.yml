@@ -24,37 +24,6 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_details: lines, bytes-size, percentage
           plugin_lines: yes
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_visibility: public
-          config_timezone: Asia/Kolkata
-
-      # ── Achievements ────────────────────────────────────────────────────────
-      - name: Achievements
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.achievements.svg
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
-          plugin_achievements_secrets: yes
-          plugin_achievements_display: compact
-          config_timezone: Asia/Kolkata
-
-      # ── Coding Habits ────────────────────────────────────────────────────────
-      - name: Coding Habits
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.habits.svg
-          base: ""
-          plugin_habits: yes
-          plugin_habits_from: 100
-          plugin_habits_days: 30
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_trim: yes
           config_timezone: Asia/Kolkata
 
       # ── Isometric Calendar ───────────────────────────────────────────────────
