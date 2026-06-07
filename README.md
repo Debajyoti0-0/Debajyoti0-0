@@ -48,7 +48,6 @@ Philosophy  : "Security is not a product, but a process. Defend forward, assume 
               threat-informed engineering."
 ```
 
-<details>
 <summary><b>🔐 Specializations (Click to Expand)</b></summary>
 
 ```
@@ -58,7 +57,6 @@ Philosophy  : "Security is not a product, but a process. Defend forward, assume 
 ✅ Incident Response & Forensics           ✅ Compliance (ISO 27001 / NIST / PCI-DSS)
 ```
 
-</details>
 
 ---
 
@@ -127,12 +125,12 @@ Philosophy  : "Security is not a product, but a process. Defend forward, assume 
 
 | 🔫 Tool | ⭐ Stars | 🍴 Forks | 📌 Description | 🧰 Stack |
 |:---|:---:|:---:|:---|:---|
-| [**ToriFY**](https://github.com/Debajyoti0-0/ToriFY) | `107 ⭐` | `11` | Automates TOR routing, IP rotation & MAC spoofing for adversary simulation & privacy-focused red team ops | `Python` `Bash` `anonsurf` `macchanger` |
+| [**ToriFY**](https://github.com/Debajyoti0-0/ToriFY) | `106 ⭐` | `11` | Automates TOR routing, IP rotation & MAC spoofing for adversary simulation & privacy-focused red team ops | `Python` `Bash` `anonsurf` `macchanger` |
 | [**AirHunt**](https://github.com/Debajyoti0-0/AirHunt) | `71 ⭐` | `12` | Full wireless security toolkit — monitor mode, WPA handshake capture, deauth attacks & WPS exploitation | `Python` `Aircrack-ng` `Reaver` `Bully` |
 | [**Brahmastra**](https://github.com/Debajyoti0-0/Brahmastra) | `17 ⭐` | `8` | Comprehensive offensive security suite: OSINT, port scanning, web crawling, CMS detection, SQLi/XSS scanner & SSL analysis | `Python` `Nmap` `Nikto` `WPScan` `ffuf` |
-| [**CampHish**](https://github.com/Debajyoti0-0/CampHish) | — | — | Advanced phishing framework for red team social engineering campaigns | `Python` `Flask` |
-| [**PyLogger**](https://github.com/Debajyoti0-0/PyLogger) | — | — | Stealthy keylogger with email exfiltration — used for authorized security assessments | `Python` |
-| [**HiddenLinks Explorer**](https://github.com/Debajyoti0-0/HiddenLinks-Explorer) | — | — | OSINT tool for discovering hidden links, endpoints, and leaked assets on web targets | `Python` |
+| [**CampHish**](https://github.com/Debajyoti0-0/CampHish) | `8 ⭐` | `6` | Advanced phishing framework for red team social engineering campaigns | `Python` `Flask` |
+| [**PyLogger**](https://github.com/Debajyoti0-0/PyLogger) | `4 ⭐` | `2` | Stealthy keylogger with email exfiltration — used for authorized security assessments | `Python` |
+| [**HiddenLinks Explorer**](https://github.com/Debajyoti0-0/HiddenLinks-Explorer) | `3 ⭐` | — | OSINT tool for discovering hidden links, endpoints, and leaked assets on web targets | `Python` |
 | [**No4bidden**](https://github.com/Debajyoti0-0/No4bidden) | `2 ⭐` | `2` | HTTP 40X bypass scanner — identifies misconfigurations enabling unauthorized access past 403/401 controls | `Python` `Requests` |
 | [**TriNetra**](https://github.com/Debajyoti0-0/TriNetra) | `2 ⭐` | `1` | Fast multi-threaded web recon crawler — uncovers hidden endpoints, API keys & JWTs with TOR support | `Python` `httpx` `Rich CLI` |
 | [**DomainShield**](https://github.com/Debajyoti0-0/DomainShield) | — | `1` | Automated domain security assessment: DNS analysis, SPF/DKIM/DMARC validation, HTML report generation | `Shell` `OpenSSL` `dig` |
@@ -142,21 +140,6 @@ Philosophy  : "Security is not a product, but a process. Defend forward, assume 
 ---
 
 ## 🤖 AI Security War Room
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              AI / LLM SECURITY CAPABILITIES                     │
-├─────────────────────────────────────────────────────────────────┤
-│  Framework    : OWASP LLM Top 10 + MITRE ATLAS                  │
-│  Attack Vecs  : Prompt Injection, Jailbreaks, RAG Poisoning,     │
-│                 Tool Abuse, Model Inversion, Data Exfiltration   │
-│  Defense Ops  : Input Sanitization, Context Filtering,           │
-│                 Output Validation, Guardrail Engineering         │
-│  Impact       : 55% reduction in AI attack surface via red team  │
-│  Specialties  : Generative AI Security Frameworks,               │
-│                 Vector Database Audits, AI Threat Modeling       │
-└─────────────────────────────────────────────────────────────────┘
-```
 
 **Core AI Security Competencies:**
 - `Prompt Injection` `Jailbreak Attack Simulation` `RAG Pipeline Security`
